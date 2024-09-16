@@ -42,7 +42,7 @@ export default {
     methods: {
         // Shop Now method
         shopNow() {
-            art('shopping now!');
+            alert('shopping now!');
         },
         // End of Shop Now method
     }
