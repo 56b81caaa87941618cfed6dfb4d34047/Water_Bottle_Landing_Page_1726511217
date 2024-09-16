@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific message do you want the alert to display when the shop now button is pressed?\", \"option1\": \"shopping now!\", \"option2\": \"Please wait, redirecting to shop.\"}, {\"question 2\": \"Do you want the alert to appear as a popup or as a browser notification?\", \"option1\": \"As a popup\", \"option2\": \"As a browser notification\"}], \"input_token_count\": 360, \"output_token_count\": 95, \"time_taken\": \"0:00:01.433323\"}",
+        "message_id": "guest16092024183709",
+        "timestamp": "16092024183716",
+        "component_file_name": "simple_hero_component_1726511220",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Fix the shop now button so that it alerts again",
         "message_id": "guest16092024183709",
