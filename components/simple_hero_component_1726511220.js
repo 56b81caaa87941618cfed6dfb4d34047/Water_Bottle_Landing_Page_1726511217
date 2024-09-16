@@ -29,7 +29,6 @@ INSTRUCTION: - To the right: There is an image relevant to the app.
         </div>
     </section>
 </template>
-</template>
 
 <script>
 export default {
