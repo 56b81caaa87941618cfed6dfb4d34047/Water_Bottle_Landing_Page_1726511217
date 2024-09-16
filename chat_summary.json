@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific content do you want to include in the textbox about water bottles?\", \"option1\": \"Product features and benefits\", \"option2\": \"Sustainability and environmental impact\"}, {\"question 2\": \"Where would you like the textbox to be positioned on the landing page?\", \"option1\": \"Above the main product images\", \"option2\": \"Below the call-to-action button\"}], \"input_token_count\": 295, \"output_token_count\": 95, \"time_taken\": \"0:00:01.290892\"}",
+        "timestamp": "16092024182900",
+        "message_id": "guest16092024182855"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll add a textbox with information about water bottles.",
         "timestamp": "16092024182856",
