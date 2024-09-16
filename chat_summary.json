@@ -8,6 +8,30 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a responsive design for mobile devices\", \"checked\": true}, {\"feature\": \"Include customer testimonials section\", \"checked\": false}, {\"feature\": \"Implement a countdown timer for promotions\", \"checked\": false}, {\"feature\": \"Add a section for FAQs regarding water bottles\", \"checked\": false}, {\"feature\": \"Integrate social media sharing buttons\", \"checked\": true}], \"input_token_count\": 314, \"output_token_count\": 92, \"time_taken\": \"0:00:00.950624\"}",
+        "message_id": "guest16092024183709",
+        "timestamp": "16092024183719",
+        "component_file_name": "simple_hero_component_1726511220",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "The user requested to add a textbox with information about water bottles. In response, the AI confirmed that it would include the textbox. The AI then posed two questions to the user, providing two options for each: first, regarding the specific content to include in the textbox\u2014either \"Product features and benefits\" or \"Sustainability and environmental impact.\" Second, the AI inquired about the positioning of the textbox on the landing page, offering the options \"Above the main product images\" or \"Below the call-to-action button.\"",
+        "timestamp": "16092024183719",
+        "message_id": "guest16092024183709"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific message do you want the alert to display when the shop now button is pressed?\", \"option1\": \"shopping now!\", \"option2\": \"Please wait, redirecting to shop.\"}, {\"question 2\": \"Do you want the alert to appear as a popup or as a browser notification?\", \"option1\": \"As a popup\", \"option2\": \"As a browser notification\"}], \"input_token_count\": 360, \"output_token_count\": 95, \"time_taken\": \"0:00:01.433323\"}",
+        "message_id": "guest16092024183709",
+        "timestamp": "16092024183716",
+        "component_file_name": "simple_hero_component_1726511220",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Fix the shop now button so that it alerts again",
         "message_id": "guest16092024183709",
@@ -24,12 +48,6 @@
         "component_file_name": "",
         "div_id": "",
         "div_action": ""
-    },
-    {
-        "role": "summary",
-        "content": "Add a textbox with some copy about water bottles",
-        "timestamp": "16092024183710",
-        "message_id": "guest16092024183709"
     },
     {
         "role": "chat_ui_checklist",
@@ -73,24 +91,6 @@
         "message_id": "guest16092024182855",
         "timestamp": "16092024182904",
         "component_file_name": "blank_component_1726511295",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific content do you want to include in the textbox about water bottles?\", \"option1\": \"Product features and benefits\", \"option2\": \"Sustainability and environmental impact\"}, {\"question 2\": \"Where would you like the textbox to be positioned on the landing page?\", \"option1\": \"Above the main product images\", \"option2\": \"Below the call-to-action button\"}], \"input_token_count\": 295, \"output_token_count\": 95, \"time_taken\": \"0:00:01.290892\"}",
-        "message_id": "guest16092024182855",
-        "timestamp": "16092024182900",
-        "component_file_name": "blank_component_1726511295",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I'll add a textbox with information about water bottles.",
-        "message_id": "guest16092024182855",
-        "timestamp": "16092024182856",
-        "component_file_name": "",
         "div_id": "",
         "div_action": ""
     }
