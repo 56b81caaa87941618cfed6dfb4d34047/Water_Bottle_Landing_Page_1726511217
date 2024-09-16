@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'm updating the shop now button to show an alert.",
+        "timestamp": "16092024183013",
+        "message_id": "guest16092024183012"
+    },
+    {
         "role": "user",
         "content": "Update the shop now button so that when pressed it will alert in the browser with the message 'shopping now!'",
         "timestamp": "16092024183012",
