@@ -9,6 +9,15 @@
     },
     {
         "role": "user",
+        "content": "Please fix the alert me button ",
+        "message_id": "guest16092024190321",
+        "timestamp": "16092024190321",
+        "component_file_name": "simple_footer_component_1726511220",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
         "content": "Fix the alert button",
         "message_id": "guest16092024185940",
         "timestamp": "16092024185940",
