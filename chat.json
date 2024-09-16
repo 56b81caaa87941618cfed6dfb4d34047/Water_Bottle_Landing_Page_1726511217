@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where exactly would you like the updated copyright information to appear on the landing page?\", \"option1\": \"In the footer\", \"option2\": \"At the top of the page\"}, {\"question 2\": \"Do you want the copyright text to match the rest of the text on the page or have a different style?\", \"option1\": \"Match the rest of the text\", \"option2\": \"Different style\"}], \"input_token_count\": 497, \"output_token_count\": 99, \"time_taken\": \"0:00:01.216367\"}",
+        "message_id": "guest16092024185658",
+        "timestamp": "16092024185811",
+        "component_file_name": "simple_footer_component_1726511220",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "update the copyright to 2024",
         "message_id": "guest16092024185658",
