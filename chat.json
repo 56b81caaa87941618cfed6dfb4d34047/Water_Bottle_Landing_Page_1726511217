@@ -17,6 +17,15 @@
         "div_action": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, I will get started on fixing the alert me button.",
+        "message_id": "guest16092024190321",
+        "timestamp": "16092024190321",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Fix the alert button",
         "message_id": "guest16092024185940",
