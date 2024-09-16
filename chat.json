@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What type of alert would you prefer for the 'shopping now!' message - a simple popup or a more styled modal?\", \"option1\": \"Simple popup alert\", \"option2\": \"Styled modal alert\"}, {\"question 2\": \"Would you like the button to have any specific styling or color that reflects the theme of the landing page?\", \"option1\": \"Yes, I have specific colors in mind\", \"option2\": \"No, I want to keep the default styling\"}], \"input_token_count\": 346, \"output_token_count\": 112, \"time_taken\": \"0:00:04.073309\"}",
+        "message_id": "guest16092024183012",
+        "timestamp": "16092024183020",
+        "component_file_name": "simple_hero_component_1726511220",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'm updating the shop now button to show an alert.",
         "message_id": "guest16092024183012",
