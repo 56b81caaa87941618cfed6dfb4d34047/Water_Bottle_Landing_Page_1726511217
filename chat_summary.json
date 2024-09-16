@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll add a textbox with information about water bottles.",
+        "timestamp": "16092024182856",
+        "message_id": "guest16092024182855"
+    },
+    {
         "role": "user",
         "content": "Add a textbox with some copy about water bottles",
         "timestamp": "16092024182855",
