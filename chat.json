@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'll get started on fixing the shop now alerting.",
+        "message_id": "guest16092024185315",
+        "timestamp": "16092024185316",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "fix the shop now alerting",
         "message_id": "guest16092024185315",
