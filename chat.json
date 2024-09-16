@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What message would you like the alert to display when the button is pressed?\", \"option1\": \"Alert with custom message\", \"option2\": \"Standard message: 'Button Pressed!'\"}, {\"question 2\": \"How would you like the button to be styled?\", \"option1\": \"Primary color with rounded edges\", \"option2\": \"Flat design with a minimalist look\"}], \"input_token_count\": 563, \"output_token_count\": 93, \"time_taken\": \"0:00:01.336765\"}",
+        "message_id": "guest16092024185850",
+        "timestamp": "16092024185855",
+        "component_file_name": "simple_footer_component_1726511220",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Add a button that alerts in the browser when pressed",
         "message_id": "guest16092024185850",
