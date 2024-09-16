@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What message would you like the alert to display when the button is pressed?\", \"option1\": \"Message about water bottles\", \"option2\": \"Message to prompt further action\"}, {\"question 2\": \"What style do you prefer for the button (e.g., color, shape)?\", \"option1\": \"Solid color with rounded corners\", \"option2\": \"Outlined with sharp corners\"}], \"input_token_count\": 566, \"output_token_count\": 94, \"time_taken\": \"0:00:01.224919\"}",
+        "message_id": "guest16092024185501",
+        "timestamp": "16092024185507",
+        "component_file_name": "simple_footer_component_1726511220",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'm implementing a button that triggers an alert.",
         "message_id": "guest16092024185501",
