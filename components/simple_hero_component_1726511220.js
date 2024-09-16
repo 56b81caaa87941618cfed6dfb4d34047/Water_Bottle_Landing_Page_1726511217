@@ -43,7 +43,7 @@ export default {
         // Shop Now method
         shopNow() {
             art('shopping now!');
-        }
+        },
         // End of Shop Now method
     }
 };
