@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style of text do you prefer for the 'Press Me' button? Should it be bold, italic, or regular?\", \"option1\": \"Bold\", \"option2\": \"Regular\"}, {\"question 2\": \"Would you like the 'Press Me' button to have a specific color scheme? If so, what colors do you have in mind?\", \"option1\": \"Yes, I have specific colors in mind\", \"option2\": \"No, I want to keep the current color scheme\"}], \"input_token_count\": 633, \"output_token_count\": 116, \"time_taken\": \"0:00:01.595768\"}",
+        "message_id": "guest16092024190946",
+        "timestamp": "16092024190957",
+        "component_file_name": "simple_footer_component_1726511220",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I will change the alert me button text to press me.",
         "message_id": "guest16092024190946",
