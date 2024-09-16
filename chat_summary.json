@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a visually appealing header section with a catchy tagline\", \"checked\": true}, {\"feature\": \"Include a product comparison table for different water bottles\", \"checked\": false}, {\"feature\": \"Implement a testimonial section from satisfied customers\", \"checked\": false}, {\"feature\": \"Add a subscription form for regular updates on new products\", \"checked\": false}, {\"feature\": \"Create a visually engaging footer with social media links\", \"checked\": true}], \"input_token_count\": 249, \"output_token_count\": 106, \"time_taken\": \"0:00:01.454582\"}",
+        "timestamp": "16092024182904",
+        "message_id": "guest16092024182855"
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific content do you want to include in the textbox about water bottles?\", \"option1\": \"Product features and benefits\", \"option2\": \"Sustainability and environmental impact\"}, {\"question 2\": \"Where would you like the textbox to be positioned on the landing page?\", \"option1\": \"Above the main product images\", \"option2\": \"Below the call-to-action button\"}], \"input_token_count\": 295, \"output_token_count\": 95, \"time_taken\": \"0:00:01.290892\"}",
         "timestamp": "16092024182900",
