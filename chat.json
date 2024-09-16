@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific message would you like the alert to display when the 'Shop Now' button is clicked?\", \"option1\": \"'Shopping now!'\", \"option2\": \"'Get ready to shop!'\"}, {\"question 2\": \"Would you like the alert to have any specific styling or additional functionality, such as a confirmation box?\", \"option1\": \"Yes, I want a styled confirmation box.\", \"option2\": \"No, just a regular alert box is fine.\"}], \"input_token_count\": 562, \"output_token_count\": 109, \"time_taken\": \"0:00:01.458861\"}",
+        "message_id": "guest16092024185315",
+        "timestamp": "16092024185324",
+        "component_file_name": "simple_hero_component_1726511220",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll get started on fixing the shop now alerting.",
         "message_id": "guest16092024185315",
