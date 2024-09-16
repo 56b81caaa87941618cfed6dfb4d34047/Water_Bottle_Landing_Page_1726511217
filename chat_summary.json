@@ -8,6 +8,57 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where exactly would you like the updated copyright information to appear on the landing page?\", \"option1\": \"In the footer\", \"option2\": \"At the top of the page\"}, {\"question 2\": \"Do you want the copyright text to match the rest of the text on the page or have a different style?\", \"option1\": \"Match the rest of the text\", \"option2\": \"Different style\"}], \"input_token_count\": 497, \"output_token_count\": 99, \"time_taken\": \"0:00:01.216367\"}",
+        "message_id": "guest16092024185658",
+        "timestamp": "16092024185811",
+        "component_file_name": "simple_footer_component_1726511220",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "The user initiated the conversation by requesting to fix the \"shop now\" alert, to which the AI acknowledged and stated it would get started. Subsequently, the user asked to change all the text to black, and the AI confirmed this change. During the conversation, the AI provided a list of additional features that could be implemented, including options for responsive design and customer reviews, which the user deliberated on. The user then requested to fix the \"shop now\" button to alert again, with the AI agreeing to make the necessary adjustments. The AI also offered the user questions regarding the alert's message display preferences and the button's styling.\n\nIn response to the user's request to update the \"shop now\" button to alert with the message \"shopping now!\", the AI confirmed it would do so and presented further features for consideration, including a header section and a visually engaging footer. The conversation continued with the user requesting the addition of a textbox about water bottles, which the AI acknowledged it would incorporate. Through this interaction, the user provided feedback and preferences on various design elements while the AI responded with confirmation and additional suggestions to enhance the user experience on their platform.",
+        "timestamp": "16092024185811",
+        "message_id": "guest16092024185658"
+    },
+    {
+        "role": "user",
+        "content": "update the copyright to 2024",
+        "message_id": "guest16092024185658",
+        "timestamp": "16092024185659",
+        "component_file_name": "simple_footer_component_1726511220",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll update the copyright to 2024.",
+        "message_id": "guest16092024185658",
+        "timestamp": "16092024185659",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add an alert button that displays a custom message when clicked\", \"checked\": true}, {\"feature\": \"Include animated button effects on hover\", \"checked\": false}, {\"feature\": \"Create a FAQ section for users\", \"checked\": false}, {\"feature\": \"Implement a user-friendly navigation menu\", \"checked\": false}, {\"feature\": \"Add a button for sharing on social media\", \"checked\": false}], \"input_token_count\": 520, \"output_token_count\": 98, \"time_taken\": \"0:00:03.562377\"}",
+        "message_id": "guest16092024185501",
+        "timestamp": "16092024185513",
+        "component_file_name": "simple_footer_component_1726511220",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What message would you like the alert to display when the button is pressed?\", \"option1\": \"Message about water bottles\", \"option2\": \"Message to prompt further action\"}, {\"question 2\": \"What style do you prefer for the button (e.g., color, shape)?\", \"option1\": \"Solid color with rounded corners\", \"option2\": \"Outlined with sharp corners\"}], \"input_token_count\": 566, \"output_token_count\": 94, \"time_taken\": \"0:00:01.224919\"}",
+        "message_id": "guest16092024185501",
+        "timestamp": "16092024185507",
+        "component_file_name": "simple_footer_component_1726511220",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'm implementing a button that triggers an alert.",
         "message_id": "guest16092024185501",
@@ -15,12 +66,6 @@
         "component_file_name": "",
         "div_id": "",
         "div_action": ""
-    },
-    {
-        "role": "summary",
-        "content": "In the conversation, the user requested changes to their website, specifically to change all text to black. They also asked for the 'shop now' button to alert again when pressed, with the message 'shopping now!'. The AI confirmed it would make this adjustment. Additionally, the user was presented with various optional features to implement, including adding a customer testimonials section and integrating social media sharing buttons, among others. The user responded positively to updating the alert for the 'shop now' button and indicated they would prefer a simple popup alert. They also requested a textbox to include informative content about water bottles. Throughout the conversation, the AI acknowledged the user's requests and provided options related to the implementation of features, such as the content for the textbox and its positioning on the landing page.",
-        "timestamp": "16092024185502",
-        "message_id": "guest16092024185501"
     },
     {
         "role": "user",
@@ -46,51 +91,6 @@
         "message_id": "guest16092024185315",
         "timestamp": "16092024185324",
         "component_file_name": "simple_hero_component_1726511220",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Okay, I'll get started on fixing the shop now alerting.",
-        "message_id": "guest16092024185315",
-        "timestamp": "16092024185316",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "fix the shop now alerting",
-        "message_id": "guest16092024185315",
-        "timestamp": "16092024185315",
-        "component_file_name": "simple_hero_component_1726511220",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Change all text color to black\", \"checked\": true}, {\"feature\": \"Add a hover effect to the buttons\", \"checked\": false}, {\"feature\": \"Include a responsive design for mobile devices\", \"checked\": false}, {\"feature\": \"Implement a section for customer reviews\", \"checked\": false}, {\"feature\": \"Add a newsletter subscription form\", \"checked\": false}], \"input_token_count\": 408, \"output_token_count\": 92, \"time_taken\": \"0:00:01.349562\"}",
-        "message_id": "guest16092024184222",
-        "timestamp": "16092024184231",
-        "component_file_name": "simple_hero_component_1726511220",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like to change the text color for all sections of the landing page or only specific sections?\", \"option1\": \"All sections\", \"option2\": \"Specific sections (please specify)\"}, {\"question 2\": \"Do you want to keep the current background color, or would you like to change that as well to better match the black text?\", \"option1\": \"Keep current background\", \"option2\": \"Change background color\"}], \"input_token_count\": 454, \"output_token_count\": 104, \"time_taken\": \"0:00:01.482531\"}",
-        "message_id": "guest16092024184222",
-        "timestamp": "16092024184228",
-        "component_file_name": "simple_hero_component_1726511220",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I'll make all the text black.",
-        "message_id": "guest16092024184222",
-        "timestamp": "16092024184223",
-        "component_file_name": "",
         "div_id": "",
         "div_action": ""
     }
