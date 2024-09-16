@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: Add a textbox with some copy about water bottles\n\nThis is the user's current request of changes to be made:\nAdd a textbox with some copy about water bottles"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: Update the shop now button so that when pressed it will alert in the browser with the message 'shopping now!'\nAI: Sure, I'll add a textbox with information about water bottles.\nUser: Add a textbox with some copy about water bottles\n\nThis is the user's current request of changes to be made:\nUpdate the shop now button so that when pressed it will alert in the browser with the message 'shopping now!'"
     }
 ]
